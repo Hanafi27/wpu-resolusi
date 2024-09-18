@@ -1,0 +1,9 @@
+Halo Pak, Salam kenal nama saya Hanafi Ilham mahasiswa semester 3 dari bandung.
+
+Berikut resolusi saya :
+- Selama 6 bulan kedepan saya akan fokus belajar front-end web. Ingin menguasai skill berikut :
+  ** Javascript dasar & DOM
+  ** Framework CSS
+  ** Framework Javascript
+- Jika dirasa sudah merasa terkuasai materi diatas, kemungkinan saya akan lanjut belajar back-end dev.
+- Saya ingin bekerja di Start-up, jika memungkinkan bisa bekerja diluar negeri sebagai web developer.
